@@ -1,0 +1,10 @@
+branch testing2
+<<<<<<< HEAD
+
+
+don't pull testing
+
+=======
+branch testing
+don't testing2
+>>>>>>> a43e41b53ee375287ba843029ccbb8ea5f83e9cf
